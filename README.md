@@ -13,20 +13,20 @@
 
 Вот несколько моих ключевых проектов:
 
-1. **[Класс полносвязного перцептрона](https://github.com/EvgeniySamonin/Neural_network)** - Класс полносвязного перцептрона в Python сделанный только с использованием numpy.
-2. **[Телеграм бот для отслеживания времени](https://github.com/EvgeniySamonin/Tasks_Timer_Bot)** - Telegram-бот для отслеживания времени, затраченного на различные задачи..
+1. **[Класс полносвязного перцептрона](https://github.com/SamoninEvgeniy/neural_network)** - Класс полносвязного перцептрона в Python сделанный только с использованием numpy.
+2. **[Телеграм бот для отслеживания времени](https://github.com/SamoninEvgeniy/Tasks_Timer_bot)** - Telegram-бот для отслеживания времени, затраченного на различные задачи..
 
 ## Контакты
 
-- 📧 Email: samonin400@gmail.com
+- 📧 Email: samoninevgeniy@gmail.com, samonin400@gmail.com
 - ➣ Telgram: https://t.me/MegaCPusi
 - ⏸ VK: https://vk.com/samonin0
 
 ## Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgeniySamonin&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamoninEvgeniy&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniySamonin&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamoninEvgeniy&layout=compact&theme=dark)
 
 ---
 
